@@ -1,5 +1,5 @@
 # Причина по которой вы перейдете на linux
-
+# ![linux.jpd](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 **Идеальная среда для программиста** есть хорошая ОС ubuntu для новичков в мире linux систем
 
 1. Проблемы учат решать пользоваться linux
